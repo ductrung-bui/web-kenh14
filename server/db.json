@@ -1,0 +1,28 @@
+{
+    "news":[
+        {
+            "id": 1,
+            "title": "Vì sao BTS và cả dàn nghệ sĩ bị 'réo tên' liên quan đến scandal chất cấm của G-Dragon?",
+            "description": "Loạt idol nổi tiếng bị 'điểm danh' trong scandal chất cấm của G-Dragon gây hoang mang.",
+            "category": "Musik",
+            "image": "https://kenh14cdn.com/thumb_w/620/203336854389633024/2023/10/26/et9-ydfvkaacg8g-16983162283881766214726.jpeg",
+            "link": "https://kenh14.vn/vi-sao-bts-va-ca-dan-nghe-si-bi-reo-ten-lien-quan-den-scandal-chat-cam-cua-g-dragon-20231026173338365.chn"
+        },
+        {
+            "id": 2,
+            "title": "Giao diện mộc mạc ít phấn son của hội Chị Đẹp Đạp Gió: Ngoài 30 mà da “như em bé”!",
+            "description": "Đúng thật tuổi tác chỉ là những con số khi nhìn vào dàn chị đẹp này.",
+            "category": "Đời sống",
+            "image": "https://kenh14cdn.com/thumb_w/620/203336854389633024/2023/10/26/photo-7-1698314670852343625440.jpg",
+            "link": "https://kenh14.vn/giao-dien-moc-mac-it-phan-son-cua-hoi-chi-dep-dap-gio-ngoai-30-ma-da-nhu-em-be-2023102617103248.chn"
+        },
+        {
+            "id": 3,
+            "title": "Dân tình đòi sao nam này giải nghệ chỉ vì 1 bức ảnh với G-Dragon, loạt phim có nguy cơ 'đắp chiếu' dài hạn?",
+            "description": "Chỉ vì 1 bức ảnh với G-Dragon, sao nam này đang bị khán giả chỉ trích diện rộng.",
+            "category": "Cine",
+            "image": "https://kenh14cdn.com/thumb_w/620/203336854389633024/2023/10/26/photo-5-16983214514201250402056.jpg",
+            "link": "https://kenh14.vn/dan-tinh-doi-sao-nam-nay-giai-nghe-chi-vi-1-buc-anh-voi-g-dragon-loat-phim-co-nguy-co-dap-chieu-dai-han-20231026185918701.chn"
+        }
+    ]
+}
